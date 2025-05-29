@@ -1,1 +1,6 @@
 Packages/
+Library/
+Logs/
+obj/
+Temp/
+UserSettings/
