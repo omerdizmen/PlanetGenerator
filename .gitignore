@@ -4,3 +4,6 @@ Logs/
 obj/
 Temp/
 UserSettings/
+*.meta
+.*csproj
+*.cs.meta
